@@ -11,7 +11,7 @@
 ---
 <details>
   <summary>
-    Languages I've used 🧑🏽‍💻 - 
+    🧑🏽‍💻 Languages I've used - 
   </summary>
   <br>
   <p>
@@ -27,7 +27,7 @@
 
 <details>
   <summary>
-    Technologies I've used 🛠️ -
+    🛠️ Technologies I've used -
   </summary>
   <br>
   <p>
