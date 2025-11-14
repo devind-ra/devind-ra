@@ -6,7 +6,7 @@
 * **📚 Currently studying Computer Science at Queen Mary (in my final year)**
 * **💻 Former Service Centre Analyst at Solirius Reply**
 * **📍 Based in West London, UK**
-* **🍿 Movie lover**
+* **🍿 Movie lover (shown by the Star Wars reference)**
   
 ---
 <details>
