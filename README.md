@@ -2,11 +2,12 @@
 ![obi-wan](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRudzczbGN5dDk3M2o3bWZzdjBwamJ4eGpucTI3Z3o1cmdnYTF3NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Nx0rz3jtxtEre/giphy.gif)
 
 ---
-
-* **Currently studying Computer Science (in my final year!!)**
-* **Former Service Centre Analyst at Solirius Reply (Placement year)**
-* **Based in West London, UK**
-
+About Me
+* **📚 Currently studying Computer Science (in my final year)**
+* **💻 Former Service Centre Analyst at Solirius Reply**
+* **📍 Based in West London, UK**
+* **🍿 Movie lover**
+  
 ---
 <details>
   <summary>
@@ -45,8 +46,6 @@
   </p>
 
   <p>
-    <img src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white" alt="GitHub Copilot">
-    <img src="https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white" alt="Google Gemini">
     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
     <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop">
   </p>
