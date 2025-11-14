@@ -2,7 +2,7 @@
 ![obi-wan](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRudzczbGN5dDk3M2o3bWZzdjBwamJ4eGpucTI3Z3o1cmdnYTF3NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Nx0rz3jtxtEre/giphy.gif)
 
 ---
-### About Me
+## About Me
 * **📚 Currently studying Computer Science at Queen Mary (in my final year)**
 * **💻 Former Service Centre Analyst at Solirius Reply**
 * **📍 Based in West London, UK**
