@@ -26,17 +26,6 @@
 
 <details>
   <summary>
-    📚 Languages I'm learning to use more - 
-  </summary>
-  <br>
-  <p>
-    <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
-    <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
-  </p>
-</details>
-
-<details>
-  <summary>
     🛠️ Technologies I've used -
   </summary>
   <br>
@@ -67,6 +56,18 @@
     <img src="https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white" alt="Gradle">
     <img src="https://img.shields.io/badge/homebrew-%23FBB040.svg?style=for-the-badge&logo=homebrew&logoColor=black" alt="Homebrew">
     <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
+  </p>
+</details>
+
+<details>
+  <summary>
+    📚 Languages/Tools I'm learning to use more - 
+  </summary>
+  <br>
+  <p>
+    <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
+    <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
+    <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim">
   </p>
 </details>
 
