@@ -65,8 +65,8 @@
   </summary>
   <br>
   <ul>
-    <li>Learning Supabase!</li> 🧑🏽‍💻
-    <li>Understanding integration of NLP in apps</li> 🤖
+    <li>Learning Supabase! 🧑🏽‍💻</li> 
+    <li>Understanding integration of NLP in apps 🤖</li>
   </ul>
 </details>
 
