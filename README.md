@@ -61,14 +61,13 @@
 
 <details>
   <summary>
-    📚 Languages/Tools I'm learning to use more - 
+    What I'm currently up to - 
   </summary>
   <br>
-  <p>
-    <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
-    <img src="https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white" alt="Lua">
-    <img src="https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim">
-  </p>
+  <ul>
+    <li>Learning Supabase!</li> 🧑🏽‍💻
+    <li>Understanding integration of NLP in apps</li> 🤖
+  </ul>
 </details>
 
 
