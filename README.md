@@ -3,8 +3,8 @@
 
 ---
 ## About Me
-* **📚 Currently studying Computer Science at Queen Mary (in my final year)**
-* **💻 Former Service Centre Analyst at Solirius Reply**
+* **💻 Service Centre Analyst at Solirius Reply**
+* **📚 Graduated from Queen Mary in Computer Science**
 * **📍 Based in West London, UK**
 
 ---
