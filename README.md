@@ -1,5 +1,4 @@
 # Hello there, it's me Devin! 👋🏽
-![obi-wan](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTRudzczbGN5dDk3M2o3bWZzdjBwamJ4eGpucTI3Z3o1cmdnYTF3NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Nx0rz3jtxtEre/giphy.gif)
 
 ---
 ## About Me
