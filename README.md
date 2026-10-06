@@ -3,8 +3,7 @@
 ---
 ## About Me
 * **💻 Service Centre Analyst at Solirius Reply**
-* **📚 Graduated from Queen Mary and studied Computer Science**
-* **📍 Based in West London, UK**
+* **📚 Computer Science Graduate**
 
 ---
 <details>
