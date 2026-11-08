@@ -1,12 +1,12 @@
 # Hello there, it's me Devin! 👋🏽
 
----
-## About Me
+### About Me
 * **💻 Service Centre Analyst at Solirius Reply**
 * **📚 Computer Science Graduate**
+* **📍 Based in London**
 
 ---
-<details>
+<details open>
   <summary>
     🧑🏽‍💻 Languages I can use - 
   </summary>
@@ -21,7 +21,7 @@
   </p>
 </details>
 
-<details>
+<details open>
   <summary>
     🛠️ Technologies I've used -
   </summary>
